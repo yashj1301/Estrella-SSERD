@@ -1,6 +1,6 @@
 # TEAM ESTRELLA (IPD-4, SSERD)
 
-This is a repository for the website code of TEAM ESTRELLA, Internship and Division - 4, Society for Space Education Research and Development (SSERD). The following members contributed to the website development - 
+This is a repository for the website code of TEAM ESTRELLA, Internship and Project Division - 4, Society for Space Education Research and Development (SSERD). The following members contributed to the website development - 
 
 1. Yash Jain (Website Code)
 2. Jane Trisha (Website Code)
