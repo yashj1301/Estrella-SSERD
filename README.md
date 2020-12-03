@@ -7,5 +7,6 @@ This is a repository for the website code of TEAM ESTRELLA, Internship and Proje
 3. Kiran Aralikatti (Website Content and Blog)
 4. Shagun Kothari (Website Content and Blog)
 5. Swagata Bera (Website Content and Blog)
+6. Deep (Arsen) (Website Content)
 
 # Estrella - https://yashj1301.github.io/Estrella/.
